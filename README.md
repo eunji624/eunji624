@@ -1,9 +1,13 @@
 # 유은지, Backend developter 👋
 
+
+### Blog 
+https://gabojok.tistory.com/
+
 </br>
 
-Blog 
-[![Tistory](https://img.shields.io/badge/Tistory-F56640.svg?style=for-the-badge&)](https://gabojok.tistory.com/)
+### Contact me
+gb624527@gmail.com
 
 </br>
 
@@ -33,9 +37,3 @@ Blog
     <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </div>
-
-</br>
-</br>
-
-### Contact me
-gb624527@gmail.com
